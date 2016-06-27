@@ -5,3 +5,6 @@
   
 **如何添加插件？**  
 File -> Settings -> Plugins -> Browse repositories -> 搜索  
+  
+**启动时不打开项目？**  
+File -> Settings -> Appearance & Behavior ->System Settings ->去掉勾选Reopen last project on startup  
