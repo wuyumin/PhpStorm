@@ -1,16 +1,26 @@
 # PhpStorm配置
 
+> - File -> Default Settings 默认设置。
+> - File -> Settings 当前项目设置。注意：有些默认设置也通过此设置来实现。
+> - 所有设置完毕后都要 Apply（应用）或OK（确认）后才能生效。
+
 ### 如何显示行号？
-如果你的编辑区没有显示行号，可以通过以下设置来进行显示Settings -> Editor -> General -> Appearance标签项，勾选Show line numbers。
+如果你的编辑区没有显示行号，可以通过以下设置来进行显示 File -> Settings -> Editor -> General -> Appearance 标签项，勾选 Show line numbers。
 
 ### 启动时不打开项目？
-File -> Settings -> Appearance & Behavior ->System Settings ->去掉勾选Reopen last project on startup
+File -> Settings -> Appearance & Behavior ->System Settings 去掉勾选Reopen last project on startup
 
 ### 单行注释符号后加空格？
-Settings -> Editor -> Code Style -> PHP -> Other标签项，去掉勾选Line comment at first column而勾选Add a space at comment start。
+File -> Default Settings -> Editor -> Code Style -> PHP -> Other 标签项，去掉勾选 Line comment at first column 而勾选 Add a space at comment start。
 
 ### 如何添加插件？
 File -> Settings -> Plugins -> Browse repositories -> 搜索
 
 ### 如何去掉右上角浏览器图标？
-Settings -> Tools -> Web Browsers 去掉勾选Show Browsers popup in the editor
+File -> Settings -> Tools -> Web Browsers 去掉勾选 Show Browsers popup in the editor
+
+### PHP版本设置
+默认设置 File -> Default Settings -> Languages & Frameworks -> PHP -> PHP language level 选择PHP版本。（当前项目设置请选择 File -> Settings）
+
+### Node.js设置
+File -> Default Settings -> Languages & Frameworks -> Node.js and NPM 设置一下 Node.js 和 NPM 包的所在位置，并启动助手来增加语法提示功能。如Node.js位置`D:\nodejs\node.exe` NPM 包位置`D:\nodejs\node_modules\npm`。（当前项目设置请选择 File -> Settings）
