@@ -19,6 +19,9 @@ File -> Settings -> Plugins -> Browse repositories -> 搜索
 ### 如何去掉右上角浏览器图标？
 File -> Settings -> Tools -> Web Browsers 去掉勾选 Show Browsers popup in the editor
 
+### 默认展开头部注释
+File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 File header
+
 ### PHP版本设置
 默认设置 File -> Default Settings -> Languages & Frameworks -> PHP -> PHP language level 选择PHP版本。（当前项目设置请选择 File -> Settings）
 
