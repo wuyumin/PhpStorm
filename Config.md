@@ -4,6 +4,10 @@
 > - File -> Settings 当前项目设置。注意：有些默认设置也通过此设置来实现。
 > - 所有设置完毕后都要 Apply（应用）或OK（确认）后才能生效。
 
+### 取消自动保存并标识修改的文件为星星标记
+- 取消自动保存：File -> Settings -> Appearance & Behavior ->System Settings 去掉勾选Save files on frame deactivation
+- 使用星星标记：File -> Settings -> Editor -> General -> Editor Tabs 勾选Mark modifyied tabs with asterisk
+
 ### 如何显示行号？
 如果你的编辑区没有显示行号，可以通过以下设置来进行显示 File -> Settings -> Editor -> General -> Appearance 标签项，勾选 Show line numbers。
 
@@ -27,3 +31,6 @@ File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 File header
 
 ### Node.js设置
 File -> Default Settings -> Languages & Frameworks -> Node.js and NPM 设置一下 Node.js 和 NPM 包的所在位置，并启动助手来增加语法提示功能。如Node.js位置`D:\nodejs\node.exe` NPM 包位置`D:\nodejs\node_modules\npm`。（当前项目设置请选择 File -> Settings）
+
+### 快捷键设置
+File -> Settings -> Keymap
