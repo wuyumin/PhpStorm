@@ -17,6 +17,9 @@ File -> Settings -> Appearance & Behavior ->System Settings 去掉勾选Reopen l
 ### 单行注释符号后加空格？
 File -> Default Settings -> Editor -> Code Style -> PHP -> Other 标签项，去掉勾选 Line comment at first column 而勾选 Add a space at comment start。
 
+### 取消方法(函数)的参数值前面的文字提示？
+File -> Settings -> Editor -> General -> Appearance 去掉勾选 Show parameter name hints。
+
 ### 如何添加插件？
 File -> Settings -> Plugins -> Browse repositories -> 搜索
 
