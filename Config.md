@@ -29,6 +29,9 @@ File -> Settings -> Tools -> Web Browsers 去掉勾选 Show Browsers popup in th
 ### 默认展开头部注释
 File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 File header
 
+### 默认展开 use 语句
+File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 PHP imports
+
 ### PHP版本设置
 默认设置 File -> Default Settings -> Languages & Frameworks -> PHP -> PHP language level 选择PHP版本。（当前项目设置请选择 File -> Settings）
 
