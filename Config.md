@@ -38,6 +38,9 @@ File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 PHP imports
 ### 是否保存相关密码
 配置搜 password 项
 
+### 是否显示代码里的空格
+配置搜 Show whitespaces 项
+
 ### Node.js设置
 File -> Default Settings -> Languages & Frameworks -> Node.js and NPM 设置一下 Node.js 和 NPM 包的所在位置，并启动助手来增加语法提示功能。如Node.js位置`D:\nodejs\node.exe` NPM 包位置`D:\nodejs\node_modules\npm`。（当前项目设置请选择 File -> Settings）
 
