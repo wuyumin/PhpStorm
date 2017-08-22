@@ -14,6 +14,9 @@
 ### 启动时不打开项目？
 File -> Settings -> Appearance & Behavior ->System Settings 去掉勾选Reopen last project on startup
 
+### 常用文件模板设置
+File -> Settings -> Editor -> File and Code Templates
+
 ### 单行注释符号后加空格？
 File -> Default Settings -> Editor -> Code Style -> PHP -> Other 标签项，去掉勾选 Line comment at first column 而勾选 Add a space at comment start。
 
