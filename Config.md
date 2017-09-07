@@ -47,6 +47,9 @@ File -> Settings -> Editor -> Genaral -> Code Folding 去掉勾选 PHP imports
 ### 取消在文字里按 Enter 键后自动缩进
 File -> Settings -> Editor -> Genaral -> Smart Keys -> Enter 去掉勾选 Smart indent
 
+### 数组对齐
+File -> Settings -> Editor -> Code Style -> PHP -> Other 标签项，勾选 Array declaration Style 项中的 Align key-value pairs。
+
 ### Node.js设置
 File -> Default Settings -> Languages & Frameworks -> Node.js and NPM 设置一下 Node.js 和 NPM 包的所在位置，并启动助手来增加语法提示功能。如Node.js位置`D:\nodejs\node.exe` NPM 包位置`D:\nodejs\node_modules\npm`。（当前项目设置请选择 File -> Settings）
 
