@@ -23,8 +23,15 @@ File -> Default Settings -> Editor -> Code Style -> PHP -> Other 标签项，去
 ### 取消方法(函数)的参数值前面的文字提示？
 File -> Settings -> Editor -> General -> Appearance 去掉勾选 Show parameter name hints。
 
+### jQuery 代码提示？
+File -> Settings -> Languages & Frameworks -> JavaScript -> Libraries
+1. 自动安装(推荐)：右边 Download... -> TypeScript community stubs 选择 jquery 来自动下载安装。
+2. 手动安装：右边 Add... （后面步骤跟自动安装后的填写差不多，可以先自动安装后再自定义自己的）。
+提示：说明文档 Documentation URLs 那里的 http://api.jquery.com 可以下载到本地以加快显示速度。
+
 ### 如何添加插件？
-File -> Settings -> Plugins -> Browse repositories -> 搜索
+File -> Settings -> Plugins -> Browse repositories -> 搜索  
+常用的代码提示插件有：Bootstrap、AngularJS(有些版本已自动带了)、Vue.js 等等
 
 ### 如何去掉右上角浏览器图标？
 File -> Settings -> Tools -> Web Browsers 去掉勾选 Show Browsers popup in the editor
