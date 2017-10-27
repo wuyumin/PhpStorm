@@ -1,5 +1,8 @@
 # PhpStorm技巧
 
+### 基于 IntelliJ 框架软件的通用性
+基于 IntelliJ 框架的软件大多数的技巧是相似的，比如 IntelliJ IDEA、PyCharm、Android Studio 等软件的技巧大多数能用到 PhpStorm 上，同理，PhpStorm 的技巧也大多数能应用到基于 IntelliJ 框架的软件。
+
 ### 多点编辑？
 按住"ALT"键并点击需要编辑的地方。（也可长按Alt+j，自动选择<u>相同的元素</u>并进入多点编辑状态）。
 
