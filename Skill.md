@@ -23,3 +23,12 @@
 
 ### 打开文件对应的资源管理器
 已打开文件的 Tab 标签上使用：Ctrl键 + 鼠标左键。(补充：在项目目录列表里得使用 鼠标右键 -> Show in Explorer)。
+
+### 后缀自动补全功能(Postfix Completion)
+比如你输入`$foo.fe`后敲一下 tab 键后就会输出：
+```php
+foreach ($foo as ) {
+    
+}
+```
+你可以在设置项里搜索`postfix`来了解一下有哪些 postfix。
